@@ -17,5 +17,5 @@
 
 
 [instagram]: https://www.instagram.com/basri_klc
-[linkedin]: www.linkedin.com/in/basrikilic
+[linkedin]: https://www.linkedin.com/in/basrikilic/
 [gmail]: mailto:basriklc10@gmail.com
