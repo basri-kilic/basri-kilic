@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!--
-**basri-kilic/basri-kilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm a Student -,I'm trying to learn software-I am dealing with projects in electronic board design!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+
+
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+<br />
+
+
+[instagram]: https://www.instagram.com/basri_klc
+[linkedin]: www.linkedin.com/in/basrikilic
+[gmail]: mailto:basriklc10@gmail.com
